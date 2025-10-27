@@ -1,0 +1,7 @@
+*checkpoints
+.env
+data/
+notebooks/.ipynb_checkpoints
+.vscode/
+__pycache__/
+*.pyc
